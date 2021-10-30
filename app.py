@@ -16,4 +16,12 @@ test = Test(url=url)
 # test.test_case_6(city='Dhaka')
 # # Search  hospital based on name
 # test.test_case_7(hospital_name='AFMC - Armed Forces Medical College')
+# # Show all doctors list
+# test.test_case_8()
+# # Show all hospitals list
+# test.test_case_9()
+# # Show doctor profile of specific name
+# test.test_case_10(doctor_name='Dr. Abdul Mannan Sarker')
+# # Show hospital profile of specific name
+# test.test_case_11(hospital_name='AFMC - Armed Forces Medical College')
 test.generate_report()
